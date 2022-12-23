@@ -7,4 +7,4 @@ This data extract contains reports received by CAERS(Center for Food Safety and 
 The fda_analysis.ipynb contains the analysis.
 
 
-##[TL;DR](https://docs.google.com/presentation/d/1NrSiGy-USafKMxSw9OfTPaHnFFTWyOlhimG5hcST70c/edit)
+## [TL;DR](https://docs.google.com/presentation/d/1NrSiGy-USafKMxSw9OfTPaHnFFTWyOlhimG5hcST70c/edit)
